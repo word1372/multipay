@@ -98,7 +98,7 @@ class SEP extends Driver
         $this->invoice->transactionId($responseData['token']);
 
         // return the transaction's id
-        return $this->invoice->getTransactionId();
+        return $responseData;
     }
 
     /**
