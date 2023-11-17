@@ -1,5 +1,5 @@
 {
-    "name": "shetabit/multipay",
+    "name": "word1372/multipay",
     "type": "library",
     "description": "PHP Payment Gateway Integration Package",
     "keywords": [
@@ -73,7 +73,7 @@
         "php paypal",
         "paypal"
     ],
-    "homepage": "https://github.com/shetabit/multipay",
+    "homepage": "https://github.com/word1372/multipay",
     "license": "MIT",
     "authors": [
         {
